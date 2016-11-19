@@ -8,7 +8,7 @@ App mimics basic functionality of home search apps such as Redfin, Zillow, etc..
 ## Integrations
 
 * Uses SFMTA shuttle stop data (obtained through California Public Records Act)
-* Uses MLS data 
+* Uses MLS data
 * Uses Yelp data
 
 
